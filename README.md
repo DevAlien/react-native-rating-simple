@@ -5,14 +5,15 @@
 **react-native-rating-simple** is a versatile react native "star" review component with half star compatibility and custom component "star". You can slide/move or simply click on stars.
 It cna be used for view only
 
+![rn-rating-simple](https://github.com/DevAlien/react-native-rating-simple/blob/master/2018-03-16%2017.34.57.gif?raw=true)
+
 ## Table of Contents
 
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Basics](#basics)
-4. [Props](#props)
-5. [Demo](#demo)
-6. [Contributing](#contributing)
+3. [Props](#props)
+4. [Demo](#demo)
+5. [Contributing](#contributing)
 6. [License](#license)
 
 ## Installation
@@ -79,7 +80,8 @@ clickOnly|bool|no|false|Set to true if you want to disable the sliding/moving
 
 ## Demo
 
-I have added an example ... 
+I have added an example on the example folder and also published it on Expo.
+![rn-rating-simple-expo](https://github.com/DevAlien/react-native-rating-simple/blob/master/image.png?raw=true)
 
 ## Contributing
 
