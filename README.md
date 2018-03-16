@@ -19,7 +19,7 @@ It cna be used for view only
 ## Installation
 
 ```sh
-npm install react-native-stars --save
+npm install react-native-rating-simple --save
 ```
 
 ## Usage
