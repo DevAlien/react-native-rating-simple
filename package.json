@@ -1,0 +1,27 @@
+{
+  "name": "react-native-rating-simple",
+  "version": "1.0.0",
+  "description": "Simple star rating for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevAlien/react-native-rating-simple.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "star",
+    "rating",
+    "ratings"
+  ],
+  "files": ["index.js", "src/**", "README.md"],
+  "author": "Goncalo Margalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevAlien/react-native-rating-simple/issues"
+  },
+  "homepage": "https://github.com/DevAlien/react-native-rating-simple#readme"
+}
